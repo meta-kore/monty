@@ -1,5 +1,7 @@
 # monty
 
+<img src="assets/plate.gif" alt="Plate 05, monty: bytecode instructions push, add and pop values on a stack while pall prints it." width="100%">
+
 An interpreter for Monty ByteCodes files, written in C. It reads a `.m` file one instruction at a time and runs it against a stack or a queue, both held in the same doubly linked list.
 
 ```
